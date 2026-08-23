@@ -1,30 +1,35 @@
-### Hi, I'm Hiten Chaudhary 👋
+Hi, I'm Hiten Chaudhary 👋
+Solo AI Founder · BCA Student · Product-Focused Developer
+I build practical products with AI, JavaScript, and modern web technologies. I am learning in public, turning ideas into usable software, and working toward building a product-based AI company.
 
-I'm a solo AI founder — BCA student building real products, not just following tutorials.
+What I’m Building
+FanBridge — a multilingual fan-assistance app for FIFA World Cup 2026 stadiums. View the live demo
+AEP — Academic Execution Platform — a multi-tenant SaaS concept for assignment management, submissions, and AI-powered academic assistance.
+AI learning resources — courses, roadmaps, and notes covering AI agents, prompt engineering, and generative AI.
+My Current Stack
+JavaScript
+TypeScript
+React
+Supabase
+Gemini API
+Netlify
+Vercel
 
-- 🏟️ Built **FanBridge**, a multilingual fan-assistance app for FIFA World Cup 2026 stadiums — [live demo](https://fanbridge.netlify.app)
-- 🎓 Built **AEP (Academic Execution Platform)**, a multi-tenant SaaS for managing assignments, submissions, and AI-powered academic assistance
-- 📚 Learning in public — working through AI agent, prompt engineering, and generative AI fundamentals as I build
-- 🎯 Long-term goal: a product-based AI company shipping multiple tools
+What I Care About
+Building products instead of only collecting tutorials
+Making AI useful, accessible, and focused on real problems
+Sharing what I learn through courses, roadmaps, and open-source work
+Improving through consistent shipping and feedback
+Featured Repositories
+Project	Description
+FanBridge	Multilingual fan assistance for FIFA World Cup 2026 stadiums
+AI Engineer Roadmap	A learning path for aspiring AI engineers
+AI Agent Course	Study material for AI-agent fundamentals
+Generative AI Prompt Engineering Course	Practical prompt-engineering learning material
+Artificial Intelligence Courses	A curated AI learning collection
+Let’s Connect
+I’m always interested in conversations about AI products, learning in public, and ambitious ideas that can become useful software.
 
-**Stack:** React · TypeScript · JavaScript · Supabase · Gemini API · Netlify/Vercel
-
-### 📌 Repositories
-
-- [FanBridge](https://github.com/theaideveloperr/FanBridge) — multilingual fan-assistance app for FIFA World Cup 2026
-- **aep-academic-execution-platform** *(private)* — multi-tenant SaaS for academic assignment & submission management
-- [GENERATIVE-AI-PROMPT-ENGINEERING-COURSE](https://github.com/theaideveloperr/GENERATIVE-AI-PROMPT-ENGINEERING-COURSE)
-- [Ai-Agent-Course](https://github.com/theaideveloperr/Ai-Agent-Course)
-- [Artificial-Intelligence-Courses](https://github.com/theaideveloperr/Artificial-Intelligence-Courses)
-- [Ai-Enginner-Roadmap](https://github.com/theaideveloperr/Ai-Enginner-Roadmap)
-
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hiten-chaudhary-5a220a419)
-
-<!--
-Notes for setup:
-1. Create a repo named exactly "theaideveloperr" (must match your GitHub username) and make it public.
-2. Put this file in it as README.md — GitHub auto-displays it on your profile.
-3. Swap the placeholder LinkedIn / Synthetic Minds Press links above for your real URLs.
-4. Optional: add a GitHub stats card, e.g.
-   ![Stats](https://github-readme-stats.vercel.app/api?username=theaideveloperr&show_icons=true&theme=radical)
--->
+LinkedIn
+GitHub
+Build. Learn. Ship. Repeat.
