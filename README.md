@@ -1,35 +1,46 @@
-Hi, I'm Hiten Chaudhary 👋
-Solo AI Founder · BCA Student · Product-Focused Developer
-I build practical products with AI, JavaScript, and modern web technologies. I am learning in public, turning ideas into usable software, and working toward building a product-based AI company.
+theaideveloperr_
+The AI Developer
+solo founder · BCA student · JavaScript builder
 
-What I’m Building
-FanBridge — a multilingual fan-assistance app for FIFA World Cup 2026 stadiums. View the live demo
-AEP — Academic Execution Platform — a multi-tenant SaaS concept for assignment management, submissions, and AI-powered academic assistance.
-AI learning resources — courses, roadmaps, and notes covering AI agents, prompt engineering, and generative AI.
-My Current Stack
-JavaScript
-TypeScript
-React
-Supabase
-Gemini API
-Netlify
-Vercel
-
-What I Care About
-Building products instead of only collecting tutorials
-Making AI useful, accessible, and focused on real problems
-Sharing what I learn through courses, roadmaps, and open-source work
-Improving through consistent shipping and feedback
-Featured Repositories
-Project	Description
-FanBridge	Multilingual fan assistance for FIFA World Cup 2026 stadiums
-AI Engineer Roadmap	A learning path for aspiring AI engineers
-AI Agent Course	Study material for AI-agent fundamentals
-Generative AI Prompt Engineering Course	Practical prompt-engineering learning material
-Artificial Intelligence Courses	A curated AI learning collection
-Let’s Connect
-I’m always interested in conversations about AI products, learning in public, and ambitious ideas that can become useful software.
-
-LinkedIn
 GitHub
-Build. Learn. Ship. Repeat.
+LinkedIn
+Live Demo
+
+$ profile-scan --live
+
+SUBJECT       The AI Developer
+HANDLE        @theaideveloperr
+ROLE          Solo AI founder / product-focused developer
+STATUS        BUILDING | LEARNING | SHIPPING
+PRIMARY       JavaScript · React · TypeScript
+AI LAYER      Gemini API · AI agents · prompt engineering
+MISSION       Turn useful ideas into real products
+system.current_focus()
+I am building real products while learning in public. My work sits at the intersection of AI, education, and practical user experiences.
+
+projects.scan()
+Signal	Project	Output
+LIVE	FanBridge	Multilingual fan-assistance app for FIFA World Cup 2026 stadiums
+PRIVATE	AEP	Multi-tenant academic execution platform with AI-powered assistance
+OPEN	AI Engineer Roadmap	Roadmap for structured AI learning
+OPEN	AI Agent Course	Learning material for AI-agent fundamentals
+OPEN	Prompt Engineering Course	Generative AI and prompt-engineering notes
+stack.scan()
+const stack = {
+  frontend: ["JavaScript", "TypeScript", "React"],
+  backend_and_data: ["Supabase"],
+  intelligence: ["Gemini API", "AI agents", "prompt engineering"],
+  deployment: ["Netlify", "Vercel"]
+};
+learning.log()
+Building AI-powered products from first principles
+Exploring agent workflows and generative AI
+Creating practical courses, roadmaps, and open learning resources
+Moving from idea → prototype → product
+contact.open()
+LinkedIn: Hiten Chaudhary
+GitHub: @theaideveloperr
+
+> BUILD WITH PURPOSE.
+> LEARN IN PUBLIC.
+> SHIP THE NEXT VERSION.
