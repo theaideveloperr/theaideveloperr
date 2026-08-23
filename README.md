@@ -1,46 +1,104 @@
-theaideveloperr_
-The AI Developer
-solo founder · BCA student · JavaScript builder
+<div align="center">
 
-GitHub
-LinkedIn
-Live Demo
+<picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=theaideveloperr&theme=github-dark&avatarVariant=0&characters=terminal-hacker%2Corbital-explorer%2Cforest-systems%2Cretro-operator%2Cdata-cartographer&layout=arc&lightning=subtle&v=character-overview-4&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=theaideveloperr&theme=github-dark&avatarVariant=0&characters=terminal-hacker%2Corbital-explorer%2Cforest-systems%2Cretro-operator%2Cdata-cartographer&layout=arc&lightning=subtle&v=character-overview-4&style=terminal" width="900" alt="The Ai Developer GitSkins character profile overview" /></picture>
 
-$ profile-scan --live
+</div>
 
-SUBJECT       The AI Developer
-HANDLE        @theaideveloperr
-ROLE          Solo AI founder / product-focused developer
-STATUS        BUILDING | LEARNING | SHIPPING
-PRIMARY       JavaScript · React · TypeScript
-AI LAYER      Gemini API · AI agents · prompt engineering
-MISSION       Turn useful ideas into real products
-system.current_focus()
-I am building real products while learning in public. My work sits at the intersection of AI, education, and practical user experiences.
+<div align="center"></div>
 
-projects.scan()
-Signal	Project	Output
-LIVE	FanBridge	Multilingual fan-assistance app for FIFA World Cup 2026 stadiums
-PRIVATE	AEP	Multi-tenant academic execution platform with AI-powered assistance
-OPEN	AI Engineer Roadmap	Roadmap for structured AI learning
-OPEN	AI Agent Course	Learning material for AI-agent fundamentals
-OPEN	Prompt Engineering Course	Generative AI and prompt-engineering notes
-stack.scan()
-const stack = {
-  frontend: ["JavaScript", "TypeScript", "React"],
-  backend_and_data: ["Supabase"],
-  intelligence: ["Gemini API", "AI agents", "prompt engineering"],
-  deployment: ["Netlify", "Vercel"]
-};
-learning.log()
-Building AI-powered products from first principles
-Exploring agent workflows and generative AI
-Creating practical courses, roadmaps, and open learning resources
-Moving from idea → prototype → product
-contact.open()
-LinkedIn: Hiten Chaudhary
-GitHub: @theaideveloperr
+## Contribution Activity
 
-> BUILD WITH PURPOSE.
-> LEARN IN PUBLIC.
-> SHIP THE NEXT VERSION.
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=theaideveloperr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=theaideveloperr&theme=github-dark&style=terminal" alt="The Ai Developer contribution graph" /></picture>
+
+<br/>
+
+</div>
+
+<div align="center"></div>
+
+## Languages Â· Frameworks Â· Tools
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?logos=JavaScript%2CCSS%2CHTML&v=local-logo-grid-1&username=theaideveloperr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/stack?logos=JavaScript%2CCSS%2CHTML&v=local-logo-grid-1&username=theaideveloperr&theme=github-dark&style=terminal" alt="The Ai Developer language and tool logos" /></picture>
+
+<sub>JavaScript Â· CSS Â· HTML</sub>
+
+</div>
+
+<div align="center"></div>
+
+## Competitive Programming
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=theaideveloperr&theme=github-dark&v=competitive-layout-2&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=theaideveloperr&theme=github-dark&v=competitive-layout-2&style=terminal" alt="The Ai Developer competitive programming signal" /></picture>
+
+</div>
+
+<div align="center"></div>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Ai-Enginner-Roadmap
+
+A featured build from this profile.
+
+`Open source` Â· `1 stars`
+
+[![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/theaideveloperr/Ai-Enginner-Roadmap)
+
+</td>
+<td width="50%" valign="top">
+
+### Ai-Agent-Course
+
+A featured build from this profile.
+
+`Open source` Â· `0 stars`
+
+[![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/theaideveloperr/Ai-Agent-Course)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Artificial-Intelligence-Courses
+
+A featured build from this profile.
+
+`Open source` Â· `0 stars`
+
+[![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/theaideveloperr/Artificial-Intelligence-Courses)
+
+</td>
+<td width="50%" valign="top">
+
+### FanBridge
+
+A featured build from this profile.
+
+`JavaScript` Â· `0 stars`
+
+[![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/theaideveloperr/FanBridge)
+
+</td>
+</tr>
+</table>
+
+<div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=theaideveloperr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=theaideveloperr&theme=github-dark&style=terminal" alt="Section divider" /></picture></div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/theaideveloperr)
+
+Built with GitSkins
+
+</div>
